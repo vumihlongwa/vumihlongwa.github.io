@@ -1,30 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Vumi Hlongwa</title>
-    <link>https://example.com/</link>
-    <description>Recent content in Home on Vumi Hlongwa</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <title>Vumi on Vumi Hlongwa</title>
+    <link>https://vumihlongwa.github.io/</link>
+    <description>Recent content in Vumi on Vumi Hlongwa</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://vumihlongwa.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Contact me</title>
-      <link>https://example.com/contact/</link>
+      <title>Contact</title>
+      <link>https://vumihlongwa.github.io/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
-      <description> Email: vumismail Phone: vumisphone   221B, Baker Street   London   United Kingdom --- --   </description>
+      <guid>https://vumihlongwa.github.io/contact/</guid>
+      <description> Email: n.hlongwa@icloud.com  Room S35, 7 George Square   EH8 9JZ, Edinburgh   United Kingdom --- -- </description>
     </item>
     
     <item>
-      <title>Home</title>
-      <link>https://example.com/about/</link>
+      <title>Donate</title>
+      <link>https://vumihlongwa.github.io/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
-      <description>My Story Hi I am Vumi.
- Study Interests I like to read books about tax law.
-Short CV Hello.
-Campaign Hello.
-To a great mind, nothing is little Here is a `code` block: ```python def is_elementary(): return True ``` ## References * Foo Bar: Head of Department, Placeholder Names, Lorem * John Doe: Associate Professor, Department of Computer Science, Ipsum [^1]: This is the first footnote. [^2]: This is the second footnote.</description>
+      <guid>https://vumihlongwa.github.io/donate/</guid>
+      <description>Help me fund my Masters I am currently collecting money for my masters.. cost break down, gofund me link here</description>
+    </item>
+    
+    <item>
+      <title>Funding Blog</title>
+      <link>https://vumihlongwa.github.io/blog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vumihlongwa.github.io/blog/</guid>
+      <description>GoFundMe Blog: Updates 10 June 2020 Visa Application Submitted I am excited to share with you that I successfully submitted my Visa Application to the Dutch Embassy&amp;hellip;
+ </description>
+    </item>
+    
+    <item>
+      <title>Vumi</title>
+      <link>https://vumihlongwa.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://vumihlongwa.github.io/about/</guid>
+      <description>&amp;ldquo;My intention is to work towards becoming a judge where I can make a meaningful contribution to the ongoing endeavours of tax compliance, coherence, and the improving of international tax policy in Africa.&amp;rdquo;
+Short CV Work Experience 2020-present: Founder, Medusa Hair, Durban, South Africa
+2019: English Language Teacher, Yumi English, Busan, South Korea
+Education 2019-2020: International Tax Center Leiden, Leiden, Netherlands
+2014-2018: LLB Law, University of Cape Town, Cape Town, South Africa</description>
     </item>
     
   </channel>
