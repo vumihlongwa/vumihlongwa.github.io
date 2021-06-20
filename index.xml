@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Vumi Hlongwa</title>
+    <link>https://example.com/</link>
+    <description>Recent content in Home on Vumi Hlongwa</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Contact me</title>
+      <link>https://example.com/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/contact/</guid>
+      <description> Email: vumismail Phone: vumisphone   221B, Baker Street   London   United Kingdom --- --   </description>
+    </item>
+    
+    <item>
+      <title>Home</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>My Story Hi I am Vumi.
+ Study Interests I like to read books about tax law.
+Short CV Hello.
+Campaign Hello.
+To a great mind, nothing is little Here is a `code` block: ```python def is_elementary(): return True ``` ## References * Foo Bar: Head of Department, Placeholder Names, Lorem * John Doe: Associate Professor, Department of Computer Science, Ipsum [^1]: This is the first footnote. [^2]: This is the second footnote.</description>
+    </item>
+    
+  </channel>
+</rss>
